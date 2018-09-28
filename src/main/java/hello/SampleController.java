@@ -19,7 +19,6 @@ public class SampleController {
     }
 
     public static void main(String[] args) throws Exception {
-        SpringApplication.run(SampleController.class, args);
-        System.out.println("111254152123211242424222441");
+        SpringApplication.run(SampleController.class, args)
     }
 }
