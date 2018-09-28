@@ -20,6 +20,6 @@ public class SampleController {
 
     public static void main(String[] args) throws Exception {
         SpringApplication.run(SampleController.class, args);
-        System.out.println("hihi");
+        System.out.println("1123");
     }
 }
