@@ -7,5 +7,6 @@ download this project and review pom.xml and project folder structures.
 
 abbc
 
+jenkins test
 
 in browser check the url "http://localhost:8080"
